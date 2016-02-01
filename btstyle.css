@@ -1,0 +1,47 @@
+#mainc{
+padding:10px;
+
+}
+.textalign{
+text-align:left	;
+}
+#footer{
+text-align:center;
+border-radius:3px;
+margin-top:551px;
+padding:17px;
+background:black;
+color:white;
+}
+.bg-4 { 
+	clear:both;
+	padding:15px;
+	border-radius:3px;
+	width:100%;
+    background-color: #0F0F0E;
+    color: #ffffff;
+	}
+.fontstyle{
+font-family: 'Roboto', sans-serif;
+text-align:justify;
+}
+p{
+font-size:20px;
+}
+.imagefloat{
+float:left;
+padding:10px;
+ `
+}
+.textfloat{
+float:left;
+}
+.logo-small {
+    color: #005203;
+    font-size: 20px;
+}
+
+.labelfont{
+font-family: 'Roboto', sans-serif;
+font-size:15px;
+}
